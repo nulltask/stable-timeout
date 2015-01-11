@@ -1,0 +1,29 @@
+{
+  "name": "stable-timeout",
+  "version": "0.0.0",
+  "description": "Stable `setTimeout`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "zuul -- test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nulltask/stable-timeout.git"
+  },
+  "keywords": [
+    "browserify",
+    "stable",
+    "worker",
+    "timeout"
+  ],
+  "author": "nulltask <nulltask@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nulltask/stable-timeout/issues"
+  },
+  "homepage": "https://github.com/nulltask/stable-timeout",
+  "files": [
+    "index.js",
+    "Readme.md"
+  ]
+}
