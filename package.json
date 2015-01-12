@@ -25,5 +25,8 @@
   "files": [
     "index.js",
     "Readme.md"
-  ]
+  ],
+  "dependencies": {
+    "pseudo-function": "0.0.4"
+  }
 }
