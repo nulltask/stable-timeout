@@ -1,0 +1,12 @@
+{
+  "name": "stable-timeout",
+  "repo": "nulltask/stable-timeout",
+  "description": "Stable `setTimeout`.",
+  "version": "0.0.2",
+  "dependencies": {
+    "nulltask/pseudo-function": "0.0.5"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
